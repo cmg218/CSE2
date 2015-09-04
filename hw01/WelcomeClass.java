@@ -12,7 +12,7 @@ public class WelcomeClass {
         System.out.println("  -----------");
         System.out.println("  ^  ^  ^  ^  ^  ^  ");
         System.out.println(" / \\/ \\/ \\/ \\/ \\/ \\ ");
-        System.out.println(" <-C--M--G--2--1--8-> ");
+        System.out.println("<-C--M--G--2--1--8-> ");
         System.out.println(" \\ /\\ /\\ /\\ /\\ /\\ / ");
         System.out.println("  v  v  v  v  v  v ");
         System.out.println("I love nature and spending time outside. When I see something beautiful or interesting I take a picture of it.");
