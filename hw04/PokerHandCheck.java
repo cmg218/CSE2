@@ -458,17 +458,17 @@ public class PokerHandCheck{
        System.out.println("You picked the "+cardValue3+" of "+suit3+".");
        System.out.println("You picked the "+cardValue4+" of "+suit4+".");
        System.out.println("You picked the "+cardValue5+" of "+suit5+".");
-//Scanner myScanner = new Scanner(System.in);//declare scanner
-   // System.out.print("give me value1:");
-   //   tempNumber1=myScanner.nextInt();
-  //  System.out.print("give me value2:");
-   //   tempNumber2=myScanner.nextInt();
-    //  System.out.print("give me value3:");
-   //  tempNumber3=myScanner.nextInt();
-   //   System.out.print("give me value4:");
-     //tempNumber4=myScanner.nextInt();
-     //System.out.print("give me value5:");
-     //tempNumber5=myScanner.nextInt();
+/*Scanner myScanner = new Scanner(System.in);//declare scanner
+   System.out.print("give me value1:");
+      tempNumber1=myScanner.nextInt();
+    System.out.print("give me value2:");
+      tempNumber2=myScanner.nextInt();
+      System.out.print("give me value3:");
+     tempNumber3=myScanner.nextInt();
+      System.out.print("give me value4:");
+     tempNumber4=myScanner.nextInt();
+     System.out.print("give me value5:");
+     tempNumber5=myScanner.nextInt();*/
     //I set up boolean true false values using the tempnumber because those are all between 1-13
     boolean t12 = (tempNumber1==tempNumber2);
     boolean t13 = (tempNumber1==tempNumber3);
