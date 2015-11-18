@@ -79,12 +79,12 @@ public class Search{
                 else{
                     System.out.println(val+" was not found in the list");
                     if(array2[k]>val){
-                         System.out.println("just above:"+array2[k]);
-                         System.out.println("just below:"+array2[k-1]);
+                         System.out.println("just below:"+array2[k]);
+                         System.out.println("just above:"+array2[k-1]);
                     }
                     if(array2[k]<val){
-                        System.out.println("just above:"+array2[k+1]);
-                        System.out.println("just below:"+array2[k]);
+                        System.out.println("just below:"+array2[k+1]);
+                        System.out.println("just above:"+array2[k]);
                     }
                 }
                 }//end of else
